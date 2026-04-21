@@ -2,7 +2,7 @@
 
 ## Цель - построить модель, которая оценивает вероятность дефолта по кредиту, помогая минимизировать финансовые потери
 
-## Ноутбук на платформе Kaggle: https://www.kaggle.com/code/iamgoinger/creditriskpredict?scriptVersionId=313147786
+## Ноутбук на платформе Kaggle: https://www.kaggle.com/code/iamgoinger/creditriskpredict/notebook
 
 ## Основные возможности
 
